@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "1051873775055",
-    "project_id": "hisabmateapp",
-    "storage_bucket": "hisabmateapp.firebasestorage.app"
+    "project_number": "23671186104",
+    "firebase_url": "https://hisaabmateapp-default-rtdb.firebaseio.com",
+    "project_id": "hisaabmateapp",
+    "storage_bucket": "hisaabmateapp.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1051873775055:android:1e187a60d82974c5bad6ba",
+        "mobilesdk_app_id": "1:23671186104:android:9d7821898d0622cc0d8a4d",
         "android_client_info": {
           "package_name": "com.example.hisabmateapp"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBhUAiXO2eYrAyelwsjAfbzw4XiwX8wqyE"
+          "current_key": "AIzaSyAm4Ke2sksiCFyILmgNkLnBrkCDPJiOi2o"
         }
       ],
       "services": {

@@ -1,5 +1,5 @@
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'add_expense_screen.dart';
 
 class SharedExpensesScreen extends StatefulWidget {

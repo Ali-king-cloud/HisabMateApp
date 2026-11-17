@@ -1,6 +1,6 @@
 
 import 'dart:async';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'onboarding_screen.dart';
 import 'home_screen.dart';

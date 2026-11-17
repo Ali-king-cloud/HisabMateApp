@@ -41,48 +41,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyACC2qAISQOqfc1YDhkbIXknogH9NDt6_c',
-    appId: '1:1051873775055:web:4dae7cc91fa66142bad6ba',
-    messagingSenderId: '1051873775055',
-    projectId: 'hisabmateapp',
-    authDomain: 'hisabmateapp.firebaseapp.com',
-    storageBucket: 'hisabmateapp.firebasestorage.app',
-    measurementId: 'G-SWVQ7LK0H4',
+    apiKey: 'AIzaSyDL0LUPoUcb2Hr1W1uxPAOrLyazI0Afpts',
+    appId: '1:23671186104:web:1ec3c5600f0125e60d8a4d',
+    messagingSenderId: '23671186104',
+    projectId: 'hisaabmateapp',
+    authDomain: 'hisaabmateapp.firebaseapp.com',
+    databaseURL: 'https://hisaabmateapp-default-rtdb.firebaseio.com',
+    storageBucket: 'hisaabmateapp.firebasestorage.app',
+    measurementId: 'G-3ZE01K91D3',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBhUAiXO2eYrAyelwsjAfbzw4XiwX8wqyE',
-    appId: '1:1051873775055:android:1e187a60d82974c5bad6ba',
-    messagingSenderId: '1051873775055',
-    projectId: 'hisabmateapp',
-    storageBucket: 'hisabmateapp.firebasestorage.app',
+    apiKey: 'AIzaSyAm4Ke2sksiCFyILmgNkLnBrkCDPJiOi2o',
+    appId: '1:23671186104:android:9d7821898d0622cc0d8a4d',
+    messagingSenderId: '23671186104',
+    projectId: 'hisaabmateapp',
+    databaseURL: 'https://hisaabmateapp-default-rtdb.firebaseio.com',
+    storageBucket: 'hisaabmateapp.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCk1SDIJtI55_A6gQtVVosg1ilFtQVTsTg',
-    appId: '1:1051873775055:ios:caf14aa9dfcada79bad6ba',
-    messagingSenderId: '1051873775055',
-    projectId: 'hisabmateapp',
-    storageBucket: 'hisabmateapp.firebasestorage.app',
+    apiKey: 'AIzaSyCPl8FC5D_0_INxqpH5QSBcIcu3CdnHEX8',
+    appId: '1:23671186104:ios:59b2ec05060fc8710d8a4d',
+    messagingSenderId: '23671186104',
+    projectId: 'hisaabmateapp',
+    databaseURL: 'https://hisaabmateapp-default-rtdb.firebaseio.com',
+    storageBucket: 'hisaabmateapp.firebasestorage.app',
     iosBundleId: 'com.example.hisabmateapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCk1SDIJtI55_A6gQtVVosg1ilFtQVTsTg',
-    appId: '1:1051873775055:ios:caf14aa9dfcada79bad6ba',
-    messagingSenderId: '1051873775055',
-    projectId: 'hisabmateapp',
-    storageBucket: 'hisabmateapp.firebasestorage.app',
+    apiKey: 'AIzaSyCPl8FC5D_0_INxqpH5QSBcIcu3CdnHEX8',
+    appId: '1:23671186104:ios:59b2ec05060fc8710d8a4d',
+    messagingSenderId: '23671186104',
+    projectId: 'hisaabmateapp',
+    databaseURL: 'https://hisaabmateapp-default-rtdb.firebaseio.com',
+    storageBucket: 'hisaabmateapp.firebasestorage.app',
     iosBundleId: 'com.example.hisabmateapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyACC2qAISQOqfc1YDhkbIXknogH9NDt6_c',
-    appId: '1:1051873775055:web:60221248e0ae673abad6ba',
-    messagingSenderId: '1051873775055',
-    projectId: 'hisabmateapp',
-    authDomain: 'hisabmateapp.firebaseapp.com',
-    storageBucket: 'hisabmateapp.firebasestorage.app',
-    measurementId: 'G-6VSQ0Y31C4',
+    apiKey: 'AIzaSyDL0LUPoUcb2Hr1W1uxPAOrLyazI0Afpts',
+    appId: '1:23671186104:web:e4ade5939d6e61030d8a4d',
+    messagingSenderId: '23671186104',
+    projectId: 'hisaabmateapp',
+    authDomain: 'hisaabmateapp.firebaseapp.com',
+    databaseURL: 'https://hisaabmateapp-default-rtdb.firebaseio.com',
+    storageBucket: 'hisaabmateapp.firebasestorage.app',
+    measurementId: 'G-Q5BJW3HBYB',
   );
 }

@@ -1,5 +1,5 @@
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class AddExpenseScreen extends StatefulWidget {
   final List<String> availableMembers;
@@ -176,7 +176,7 @@ class _AddExpenseScreenState extends State<AddExpenseScreen> {
             const SizedBox(height: 7),
 
             DropdownButtonFormField<String>(
-              value: selectedPayer,
+              initialValue: selectedPayer,
               isExpanded: true,
               decoration: inputDecoration('Select who paid'),
               items: widget.availableMembers.map((member) {
